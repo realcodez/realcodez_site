@@ -1,0 +1,4 @@
+Logo: 
+- GIMP
+- File > Create > Logos > Newsprint
+- see img/script-fu.settings.png
