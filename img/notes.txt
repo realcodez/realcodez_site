@@ -1,0 +1,21 @@
+Logo: 
+- GIMP
+- File > Create > Logos > Newsprint
+- see img/script-fu.settings.png
+
+
+Typewriter.png => https://commons.wikimedia.org/wiki/File:WeirdTalesv36n1pg006_Remington_Deluxe_Noiseless_Portable_Typewriter.png
+
+Typewriter keys in background.2.png Public Domain - https://pixabay.com/p-1156823/?no_redirect
+
+Nov 2016 - background.2.xcf is the project for both background.2.png
+and background.2-sel.png. background.2.png is the "Background" image in
+Vimeo Appearance tab. background.2-sel.png is the "Thumbnail" image in
+Vimeo Appearance tab. "background.2-sel.png" was made from
+background.2.xcf by selecting the RealCodez thumbnail layer, then using
+the export selection script-fu. If you're in a GIMP install without
+that extension, you can download it here:
+http://registry.gimp.org/node/14315 - and put it in the scripts folder
+in your GIMP install. On OS X, that's in ~/Library/Application
+Support/GIMP/2.8/scripts. Then inside GIMP, select Filters / Script-Fu
+/ Refresh Scripts.

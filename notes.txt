@@ -1,7 +1,0 @@
-Logo: 
-- GIMP
-- File > Create > Logos > Newsprint
-- see img/script-fu.settings.png
-
-
-Typewriter.png => https://commons.wikimedia.org/wiki/File:WeirdTalesv36n1pg006_Remington_Deluxe_Noiseless_Portable_Typewriter.png
