@@ -11,6 +11,8 @@ In this, the inaugural episode of RealCodez, we'll be looking at a PR
  to put together a failing test for the bug, so we begin looking at
  how we can refactor the code in question to allow for better testing.
 
+_If you aren't a subscriber, you'll see the trailer below with an option to rent the specific episode._
+
 <iframe src="https://player.vimeo.com/video/192851112" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
  
 <hr width="20%"/>

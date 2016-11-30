@@ -6,6 +6,8 @@ date:   2016-11-30
 In this episode we take a small detour and look at speeding up our workflow in the prior episode by figuring out 
 how to run two specs out of different context blocks.
 
+_If you aren't a subscriber, you'll see the trailer below with an option to rent the specific episode._
+
 <iframe src="https://player.vimeo.com/video/193652731" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
  
 <hr width="20%"/>
