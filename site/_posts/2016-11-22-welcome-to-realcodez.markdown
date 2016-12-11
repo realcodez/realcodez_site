@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to RealCodez"
 date:   2016-11-22
+redirect_from: /about/
 ---
 Greetings, salutations, holas, and welcome to the RealCodez screencasts. 
  

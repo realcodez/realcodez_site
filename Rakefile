@@ -7,5 +7,5 @@ task :build do
 end
 
 task :serve do
-  sh "bundle exec jekyll serve -s site -d #{dest_dir} -w"
+  sh "bundle exec jekyll serve -s site -d #{dest_dir} -w --safe"
 end
